@@ -1,0 +1,69 @@
+1. 
+Язык разметки
+2. 
+Через css @font-face
+Через HTML тег Link
+3.
+<body>
+Wrapper - обвертка
+Header - шапка
+main - контент
+footer - футер
+<body/>
+4. 
+p - обзац
+5. 
+через тег img в HTML
+через backgraund url() в css
+6. 
+Тег  <a href="ссылка">Название ссылки</a> 
+7. 
+
+
+
+8. 
+A. D.
+9.
+Все кроме hеad
+10.
+a, c, f, h
+11.
+наверное тег body и head html
+
+12.
+li - 
+ui li -
+ul ol + div -
+.wrapper -
+.wrapper a span -
+#wrapper. container -
+#container a  - 
+.list a -
+
+
+13.
+
+14.
+display: block - все элементы становятся блочными
+display: inline-block - блочно-строчные
+display: inline - строчные
+display: Flex - блочные (адвптивная верстка)
+display: grid - блочные (адаптивная верстка)
+
+
+
+15. 
+<div class="block__fronted">
+&#8220;Frontent-курсы&#8221;
+</div>
+
+.block__fronted {
+    padding: 20px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+16.
+
